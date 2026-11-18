@@ -27,7 +27,7 @@ A hands on IT infrastructure lab built to simulate daily 1st Line Service Desk o
 
 Get-ADUser -Filter * 
 Add-ADGroupMember -Identity 
-```
+
 
 ### 4. Microsoft 365 & Entra ID Cloud Administration
 * Configured a live **Microsoft Entra ID** tenant alongside the **Microsoft 365 Admin Center**.
